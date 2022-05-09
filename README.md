@@ -1,11 +1,11 @@
 # useful-scripts
 A collection of scripts that were once written and maybe even used
 
-### Examples
-#### 1. Check your hosts for certificates expiration
+
+## 1. Check your hosts for certificates expiration
 Usage:
-1. Add your hostnames to HOSTS list in the script
-2. Run
+1. Add some hostnames to HOSTS list in the script instead of the defaut ones
+2. Run the script
 `python3 check-certs.py`
 
 You'll get something like this:
@@ -23,7 +23,7 @@ You'll get something like this:
 ```
 ----
 
-#### 2. Get sha512 password hash with random salt
+## 2. Get sha512 password hash with random salt
 Usage:\
 `./generate-sha512-hash.py`
 output:
@@ -37,7 +37,7 @@ $6$RBdmKjFZnIyD39zt$zh7uy/tXT1PDOhxFHX0QqrdzpYuB3I1uReU8I3KfOhrJNe/gEBQNAmOWDZ.k
 ```
 ----
 
-#### 3. Get a playlist or a single video from the youtube
+## 3. Get a playlist or a single video from the youtube
 Requirements: `pip3 install pytube`
 
 Usage:\
