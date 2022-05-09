@@ -1,5 +1,5 @@
 # useful-scripts
-A collection of scripts that were once written and even used
+A collection of scripts that were once written and maybe even used
 
 ### Examples
 #### 1. Check your hosts for certificates expiration
