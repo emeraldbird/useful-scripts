@@ -25,7 +25,7 @@ You'll get something like this:
 
 ## 2. Get sha512 password hash with random salt
 Usage:\
-`./generate-sha512-hash.py`
+`python3 generate-sha512-hash.py`
 output:
 ```
 Password:
@@ -41,4 +41,4 @@ $6$RBdmKjFZnIyD39zt$zh7uy/tXT1PDOhxFHX0QqrdzpYuB3I1uReU8I3KfOhrJNe/gEBQNAmOWDZ.k
 Requirements: `pip3 install pytube`
 
 Usage:\
-`./get-from-youtube [-h] [--playlist PLAYLIST_URL] [--video VIDEO_URL] --dir <DIR_PATH>`
+`python3 get-from-youtube [-h] [--playlist PLAYLIST_URL] [--video VIDEO_URL] --dir <DIR_PATH>`
