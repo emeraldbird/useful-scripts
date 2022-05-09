@@ -41,4 +41,4 @@ $6$RBdmKjFZnIyD39zt$zh7uy/tXT1PDOhxFHX0QqrdzpYuB3I1uReU8I3KfOhrJNe/gEBQNAmOWDZ.k
 Requirements: `pip3 install pytube`
 
 Usage:\
-`python3 get-from-youtube [-h] [--playlist PLAYLIST_URL] [--video VIDEO_URL] --dir <DIR_PATH>`
+`python3 get-from-youtube.py [-h] [--playlist PLAYLIST_URL] [--video VIDEO_URL] --dir <DIR_PATH>`
