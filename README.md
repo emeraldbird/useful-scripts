@@ -23,7 +23,7 @@ You'll get something like this:
 ```
 ----
 
-#### 2. Get sha512 password hash with random salt of 16 characters
+#### 2. Get sha512 password hash with random salt
 Usage:\
 `./generate-sha512-hash.py`
 output:
