@@ -2,7 +2,8 @@
 A collection of scripts that have ever been written and even used
 
 ### Examples
-#### Get sha512 password hash with random salt of 16 characters
+#### 1. Get sha512 password hash with random salt of 16 characters
+Usage:\
 `./generate-sha512-hash.py`
 output:
 ```
@@ -13,3 +14,10 @@ and get:
 ```
 $6$RBdmKjFZnIyD39zt$zh7uy/tXT1PDOhxFHX0QqrdzpYuB3I1uReU8I3KfOhrJNe/gEBQNAmOWDZ.kG54yNxaIIbYkY6PiUIGu0Qclf/
 ```
+
+
+#### 2. Get a whole playlist or a single video from the youtube
+Requirements: `pip3 install pytube`\
+
+Usage:\
+`./get-from-youtube [-h] [--playlist PLAYLIST] [--video VIDEO] [--dir DIR]`
