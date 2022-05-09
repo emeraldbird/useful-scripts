@@ -2,7 +2,7 @@
 A collection of scripts that were once written and maybe even used
 
 
-## 1. Check your hosts for certificates expiration
+## 1. Check the expiration date of certificates on your hosts
 Usage:
 1. Add some hostnames to HOSTS list in the script instead of the defaut ones
 2. Run the script
