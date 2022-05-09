@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 from datetime import datetime, timedelta
 from typing import List, Tuple
 import ssl
@@ -48,6 +49,7 @@ def check():
                 UP_TO_DATE.append((host, not_after))
 
 def main():
+    
     check()
 
     for key, value in {
