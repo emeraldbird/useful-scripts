@@ -2,7 +2,7 @@
 A collection of scripts that have ever been written and even used
 
 ### Examples
-#### Get password sha512 hash
+#### Get sha512 password hash with random salt of 16 characters
 `./generate-sha512-hash.py`
 output:
 ```
