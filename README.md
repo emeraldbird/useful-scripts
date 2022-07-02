@@ -1,5 +1,5 @@
 # useful-scripts
-A collection of scripts that were once written and maybe even used
+A set of different scripts
 
 
 ## 1. Check the expiration date of certificates on your hosts
